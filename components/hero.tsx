@@ -64,7 +64,7 @@ export default function Hero() {
           >
             <div className="relative h-[350px] w-[350px] sm:h-[400px] sm:w-[400px] overflow-hidden rounded-full border-4 border-primary/20 shadow-xl">
               <Image
-                src="@/public/images/rahul-profile.png"
+                src="/images/rahul-profile.png"
                 alt="Rahul Babu"
                 fill
                 className="object-cover"
